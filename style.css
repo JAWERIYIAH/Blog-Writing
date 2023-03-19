@@ -1,0 +1,259 @@
+/********************************* TAG SELECTOR ************************************/
+body {
+    margin: 0;
+}
+
+hr {
+    border-color: grey;
+    border-width: thin;
+    width: 85%;
+    border-style: solid;
+}
+
+/****************************** CLASS SELECTOR ************************************/
+.heading {
+    color: #0A2647;
+    font-size: 30px;
+    font-family: 'Playfair Display', serif;
+    font-weight: bold;
+    letter-spacing: 1px;
+    margin-left: 16px;
+}
+
+.heading1 {
+    color: #0A2647;
+    font-size: 30px;
+    font-family: 'Playfair Display', serif;
+    font-weight: bold;
+    letter-spacing: 1px;
+    margin-left: 16px;
+    margin-top: 50px;
+}
+
+.table1 {
+    margin: 0;
+}
+
+.img1 {
+
+    width: 75px;
+    height: 75px;
+    margin-top: 0;
+    margin-left: 2px;
+    padding: 0;
+    transition: all 0.5s ease-in-out;
+}
+
+.img1:hover {
+    transform: skew(10deg);
+    width: 80px;
+    height: 80px;
+    border-style: solid;
+    border-color: #0A2647;
+}
+
+.img2 {
+    width: 910px;
+    height: 495px;
+}
+
+.img3 {
+    margin-left: 100px;
+    border-radius: 100%;
+    border-style: solid;
+    border-color: #0A2647;
+    width: 300px;
+    height: 260px;
+
+}
+
+.img4 {
+    width: 600px;
+    height: 250px;
+    margin-left: 30px;
+}
+
+.img5 {
+    width: 350px;
+    height: 300px;
+    margin-left: 30px;
+
+}
+
+.img6 {
+    width: 450px;
+    height: 280px;
+    margin-left: 20px;
+
+}
+
+.img7 {
+    margin-left: 10px;
+    width: 450px;
+    height: 280px;
+}
+
+.h5 {
+    font-size: 25px;
+    text-align: center;
+    color: #0A2647;
+    text-decoration: underline;
+    font-weight: bold;
+    font-family: 'Playfair Display', serif;
+    letter-spacing: 1px;
+}
+
+.table2 {
+    justify-items: center;
+    margin-left: 5px;
+}
+
+.a1 {
+    color: black;
+    text-decoration: none;
+}
+
+.a1:hover {
+    color: rgb(13, 13, 107);
+    text-decoration: underline;
+}
+
+.a {
+    color: black;
+    text-decoration: none;
+    font-family: 'Chakra Petch', sans-serif;
+    margin-left: 22px;
+}
+
+.a:hover {
+    color: rgb(13, 13, 107);
+    text-decoration: underline;
+}
+
+.Q1para1 {
+    margin-top: 22px;
+    margin-left: 22px;
+    font-family: 'Chakra Petch', sans-serif;
+}
+
+.Q1para2 {
+    margin-left: 22px;
+    font-family: 'Playfair Display', serif;
+    font-weight: bold;
+
+}
+
+.Q2para1 {
+    font-family: 'Chakra Petch', sans-serif;
+    margin-left: 21px;
+}
+
+.Q3para1 {
+    font-family: 'Playfair Display', serif;
+    font-weight: bold;
+    margin-left: 490px;
+}
+
+.Q3para2 {
+    float: right;
+    margin-right: 690px;
+    margin-top: 0px;
+    font-family: 'Chakra Petch', sans-serif;
+
+}
+
+.Q4para1 {
+    font-family: 'Chakra Petch', sans-serif;
+    margin-left: 21px;
+    margin-bottom: 50px;
+    margin-top: 20px;
+}
+
+.d1 {
+    margin-left: 22px;
+}
+
+.video1 {
+    margin-top: 20px;
+    margin-left: 200px;
+    margin-bottom: 30px;
+}
+
+.video2 {
+    margin-top: 20px;
+    margin-left: 20px;
+    margin-bottom: 30px;
+
+}
+
+/******************************* ID SESLCTOR **********************************/
+#h1 {
+    font-size: 22px;
+    font-family: 'DM Serif Display', serif;
+    letter-spacing: 1px;
+}
+
+#h1:hover {
+    text-decoration: underline;
+    cursor: none;
+}
+
+#firstletter::first-letter {
+    font-size: 27px;
+    font-weight: bold;
+    color: #0A2647;
+}
+
+#firstletter {
+    text-align: center;
+    font-family: 'Chakra Petch', sans-serif;
+}
+
+#CM {
+    font-family: 'Playfair Display', serif;
+    font-style: italic;
+    padding: 8px;
+}
+
+#CMs {
+    font-family: 'Playfair Display', serif;
+    font-style: italic;
+}
+
+#h2 {
+    font-family: 'Playfair Display', serif;
+}
+
+
+#s1 {
+    margin: 10px;
+    font-size: 18px;
+    font-family: 'Playfair Display', serif;
+}
+
+#s2 {
+    margin: 10px;
+    font-size: 18px;
+    font-family: 'Playfair Display', serif;
+    background-color: rgb(179, 218, 204);
+}
+
+#s3 {
+    margin-left: 19px;
+    background-color: rgb(179, 218, 204);
+    font-size: 18px;
+    font-family: 'Playfair Display', serif;
+
+}
+
+#s12 {
+    margin-left: 100px;
+    font-size: 18px;
+    font-family: 'Playfair Display', serif;
+    background-color: rgb(179, 218, 204);
+
+}
+
+#headind2 {
+    font-family: 'Crimson Text', serif;
+}
